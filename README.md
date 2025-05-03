@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+# 📊 AI KPI Dashboard Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Transform raw KPI inputs into insightful business summaries and visualizations using GPT-4. This tool streamlines performance reporting for executives and analysts.
+
+![GitHub last commit](https://img.shields.io/github/last-commit/visaoenhance/ai-kpi-dashboard-generator)
+![GitHub issues](https://img.shields.io/github/issues/visaoenhance/ai-kpi-dashboard-generator)
+![GitHub license](https://img.shields.io/github/license/visaoenhance/ai-kpi-dashboard-generator)
+
+---
+
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## ✨ Features
+
+- 🧠 AI-generated business summaries from KPI inputs
+- 📈 Dynamic visualizations of KPI trends
+- 🎨 Responsive UI built with Tailwind CSS v3.4.17
+- 🔐 Secure API key management via `.env` file
+- 🛠️ Error handling and loading states for seamless UX
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/visaoenhance/ai-kpi-dashboard-generator.git
+cd ai-kpi-dashboard-generator
+npm install
+cp .env.example .env
+# Add your OpenAI API key to the .env file
+npm start
+```
 
 ## Available Scripts
 
